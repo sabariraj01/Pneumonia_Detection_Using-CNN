@@ -46,14 +46,14 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
   
 <img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/b88600e9-5f82-4f04-9790-87b03d533c62" alt="Confusion Matrix" width="400">
 
-<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/b4da5c98-620b-4800-b68c-4e1632c7e8f4" alt="ROC Curve" width="200">
+<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/b4da5c98-620b-4800-b68c-4e1632c7e8f4" alt="ROC Curve" width="400">
 
 ## Sample Inputs :
 
-<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/a55ef14c-a1a5-4cf6-b482-daf526247939" alt="Sample Input" width="500">
+<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/a55ef14c-a1a5-4cf6-b482-daf526247939" alt="Sample Input" width="450">
 
 ## Sample Outputs : 
 
-<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/c5c68ba3-5a88-4724-8396-fac6be1adb97" alt="Sample Output 1" width="100">
+<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/c5c68ba3-5a88-4724-8396-fac6be1adb97" alt="Sample Output 1" width="400">
 
 <img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/e9a3eee3-3ac0-412d-bbb1-45c5446dcac3" alt="Sample Output 2" width="400">
