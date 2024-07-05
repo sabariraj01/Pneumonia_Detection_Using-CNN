@@ -7,8 +7,8 @@ This project uses Convolutional Neural Networks (CNN) to detect Pneumonia from c
 ## Dataset :
 
 The dataset consists of X-ray images categorized into two classes:
-  + **Normal**
-  + **Pneumonia**
+  * **Normal**
+  * **Pneumonia**
 
 You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
@@ -29,7 +29,7 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
 
   The CNN model architecture consists of several convolutional layers, each followed by max-pooling layers, and finally dense layers for classification.
   
-Summary of the model :
+<> Summary of the model :
 
 * Conv2D layers with ReLU activation
 * MaxPooling2D layers
@@ -41,5 +41,5 @@ Summary of the model :
 <> The model achieved:
 
 * Training accuracy : 98.16%
-- Validation accuracy : 100%
+* Validation accuracy : 100%
 
