@@ -26,6 +26,8 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
 
 ## Results :
 <> The model achieved:
+
 Training accuracy: 98.16%
+
 Validation accuracy: 100%
 
