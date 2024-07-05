@@ -37,33 +37,25 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
 * Dense layers with ReLU activation
 * Output Dense layer with sigmoid activation for binary classification
 
-_________________________________________________________________
-Layer (type)                Output Shape              Param #   
-=================================================================
-conv2d (Conv2D)             (None, 298, 298, 16)      448       
-max_pooling2d (MaxPooling2D (None, 149, 149, 16)      0         
-conv2d_1 (Conv2D)           (None, 147, 147, 32)      4640      
-max_pooling2d_1 (MaxPooling (None, 73, 73, 32)        0         
-conv2d_2 (Conv2D)           (None, 71, 71, 64)        18496     
-max_pooling2d_2 (MaxPooling (None, 35, 35, 64)        0         
-conv2d_3 (Conv2D)           (None, 33, 33, 128)       73856     
-max_pooling2d_3 (MaxPooling (None, 16, 16, 128)       0         
-conv2d_4 (Conv2D)           (None, 14, 14, 128)       147584    
-max_pooling2d_4 (MaxPooling (None, 7, 7, 128)         0         
-flatten (Flatten)           (None, 6272)              0         
-dense (Dense)               (None, 256)               1605888   
-dense_1 (Dense)             (None, 512)               131584    
-dense_2 (Dense)             (None, 1)                 513       
-=================================================================
-Total params: 1983009 (7.56 MB)
-Trainable params: 1983009 (7.56 MB)
-Non-trainable params: 0 (0.00 Byte)
-_________________________________________________________________
-
 
 ## Results :
 <> The model achieved:
 
 * Training accuracy : 98.16%
 * Validation accuracy : 100%
+  
+![image](https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/b88600e9-5f82-4f04-9790-87b03d533c62)
+
+![image](https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/b4da5c98-620b-4800-b68c-4e1632c7e8f4)
+
+## Sample Inputs :
+
+![image](https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/a55ef14c-a1a5-4cf6-b482-daf526247939)
+
+
+## Sample Outputs : 
+
+![image](https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/c5c68ba3-5a88-4724-8396-fac6be1adb97)
+
+![image](https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/e9a3eee3-3ac0-412d-bbb1-45c5446dcac3)
 
