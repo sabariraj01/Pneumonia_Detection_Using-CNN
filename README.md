@@ -54,6 +54,6 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
 
 ## Sample Outputs : 
 
-<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/c5c68ba3-5a88-4724-8396-fac6be1adb97" alt="Sample Output 1" width="400">
-
 <img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/e9a3eee3-3ac0-412d-bbb1-45c5446dcac3" alt="Sample Output 2" width="400">
+<br>
+<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/c5c68ba3-5a88-4724-8396-fac6be1adb97" alt="Sample Output 1" width="400">
