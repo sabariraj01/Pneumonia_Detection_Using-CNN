@@ -37,6 +37,8 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
 * Dense layers with ReLU activation
 * Output Dense layer with sigmoid activation for binary classification
 
+<img src="https://github.com/sabariraj01/Pneumonia_Detection_Using-CNN/assets/114046096/558151fc-288f-408c-8887-af208e22fa1f" alt="Sample Output 1" width="400">
+
 
 ## Results :
 <> The model achieved:
