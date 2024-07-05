@@ -21,4 +21,11 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
 
 <> Download the dataset and place it in the data/ directory and run the ipy notebook file.
 
+## Model Architecture :
+  The CNN model consists of several convolutional layers followed by max-pooling layers, and dense layers for classification. The model is trained using the Adam optimizer and binary cross-entropy loss function.
+
+## Results :
+<> The model achieved:
+Training accuracy: 98.16%
+Validation accuracy: 100%
 
