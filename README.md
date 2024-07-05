@@ -19,10 +19,23 @@ You can download the dataset from [Kaggle](https://www.kaggle.com/paultimothymoo
     python3 -m venv venv
     source venv/bin/activate
 
+<>Install the required packages.
+
+    pip install -r requirements.txt
+
 <> Download the dataset and place it in the data/ directory and run the ipy notebook file.
 
 ## Model Architecture :
-  The CNN model consists of several convolutional layers followed by max-pooling layers, and dense layers for classification. The model is trained using the Adam optimizer and binary cross-entropy loss function.
+
+  The CNN model architecture consists of several convolutional layers, each followed by max-pooling layers, and finally dense layers for classification.
+  
+Summary of the model :
+
+* Conv2D layers with ReLU activation
+* MaxPooling2D layers
+Flatten layer
+Dense layers with ReLU activation
+Output Dense layer with sigmoid activation for binary classification
 
 ## Results :
 <> The model achieved:
